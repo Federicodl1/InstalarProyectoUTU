@@ -1,9 +1,11 @@
 Creador de Instalador de Proyecto
-Este script automatiza la configuración inicial de un proyecto desarrollado con PHP Laravel. Está diseñado para trabajar únicamente con Laravel y requiere la instalación previa de ciertas dependencias y configuraciones adicionales.
+Este script automatiza la configuración inicial de un proyecto desarrollado con PHP Laravel subido en repositorios de Github. Está diseñado para trabajar únicamente con Laravel y requiere la instalación previa de ciertas dependencias y configuraciones adicionales.
+En caso de uso para repositorios privados se puede configurar un token de autorización personal que no será compartido ni saldrá fuera del equipo donde se ejecute el script.
 
 Requisitos previos
 Antes de ejecutar este script, asegúrate de contar con lo siguiente:
 
+Git
 Versión mínima de PHP: 7.4 o superior.
 Extensiones PHP necesarias:
 BCMath
